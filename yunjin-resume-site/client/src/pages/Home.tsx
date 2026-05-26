@@ -410,7 +410,7 @@ export default function Home() {
                   <Button asChild variant="ghost" size="sm">
                     <a href="https://github.com/leeyj3658" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2">
                       <Github className="w-4 h-4" />
-                      GitHub
+                      https://github.com/leeyj3658
                     </a>
                   </Button>
                 </div>
