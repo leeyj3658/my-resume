@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /e/portfolio/my-resume/)",
+      "Read(//e/portfolio/my-resume//**)",
+      "Bash(pnpm run *)"
+    ]
+  }
+}
